@@ -16,10 +16,6 @@ Building intelligent applications, scalable software architectures, and reliable
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=cleverpony329-devcom&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
-
-</div>
-
 ---
 
 # About Me
