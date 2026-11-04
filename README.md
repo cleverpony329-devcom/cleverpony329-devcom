@@ -17,7 +17,6 @@ Building intelligent applications, scalable software architectures, and reliable
 </a>
 
 </div>
----
 
 # About Me
 
