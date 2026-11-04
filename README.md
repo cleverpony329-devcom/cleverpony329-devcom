@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# My profile
-
 ### Senior AI Software Engineer | Full-Stack Developer
 
 **AI Engineering · LLM Evaluation · Agentic AI · Distributed Systems · Software Architecture**
