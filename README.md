@@ -67,9 +67,7 @@ Exploring practical LLM integrations, intelligent automation, and AI-assisted de
 
 ## Connect With Me
 
-- GitHub: https://github.com/cleverpony329
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- Email: cleverpony329@gmail.com
 
 ---
 
