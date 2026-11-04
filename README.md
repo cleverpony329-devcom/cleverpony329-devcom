@@ -1,353 +1,164 @@
+ <div align="center">
 
-<div align="center">
+# AI Software Engineer
 
-### Senior AI Software Engineer | Full-Stack Developer
+### Full-Stack Developer | AI Evaluation Specialist
 
 **AI Engineering · LLM Evaluation · Agentic AI · Distributed Systems · Software Architecture**
 
-Building intelligent applications, scalable software architectures, and reliable AI-powered engineering solutions.
-mat
-<br/>
+Building intelligent applications, scalable architectures, and reliable AI-powered solutions.
 
-<a href="https://github.com/cleverpony329-devcom">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:cleverpony329@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/cleverpony329-devcom)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:cleverpony329@gmail.com)
 
 </div>
 
-# About Me
-
-I am a software engineer with **7+ years of experience** in software development, specializing in full-stack engineering, backend architecture, AI-powered applications, and intelligent automation.
-
-My work combines practical software engineering with emerging AI technologies. I enjoy building complex systems, evaluating AI capabilities, improving application reliability, and developing solutions that address real-world engineering challenges.
-
-I have worked across multiple areas of software development, including web applications, mobile development, backend systems, AI evaluation, blockchain-related development, and distributed application architectures.
-
-### Professional Focus
-
-- **AI Engineering:** LLM applications, AI-assisted development, model evaluation, and intelligent automation.
-- **AI Evaluation & Benchmarking:** Model quality assessment, coding evaluations, reasoning quality, task verification, and structured agent evaluation.
-- **Agentic AI:** Autonomous workflows, AI agents, tool integration, and multi-step problem-solving.
-- **Full-Stack Development:** Modern frontend applications, backend services, APIs, and end-to-end application development.
-- **Backend Engineering:** Scalable services, API architecture, data processing, and application integrations.
-- **Software Quality:** Code quality, testing, debugging, verification, and engineering reliability.
-- **System Architecture:** Application architecture, distributed systems, performance, and maintainable software design.
-
 ---
 
-# Technical Expertise
+## About Me
 
-## Programming Languages
+Software engineer with **7+ years of experience** across full-stack development, backend engineering, AI applications, and software architecture.
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
-</p>
+Focused on building production-oriented software, evaluating AI capabilities, and developing intelligent engineering workflows.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Professional Focus**
+- AI engineering, LLM applications, and model benchmarking
+- Agentic AI, RAG, and intelligent automation
+- Full-stack development and backend architecture
+- Distributed systems, software quality, and reliability
 
-## Frontend Engineering
+## Selected Engineering Impact
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" />
-</p>
+| Engineering Domain | Focus |
+|---|---|
+| AI Engineering | LLM integration and model assessment |
+| AI Evaluation | Benchmarking and coding-agent assessment |
+| Agentic AI | Autonomous workflows and tool integration |
+| Full-Stack | End-to-end application engineering |
+| Backend Systems | APIs, integrations, and scalable services |
+| Software Quality | Testing, verification, and reliability |
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+## Technical Expertise
 
-**Engineering capabilities**
+### Programming Languages
 
-- Component-based application architecture
-- Responsive web application development
-- Server-side rendering and static generation
-- State management and data fetching
-- Frontend performance optimization
-- Reusable component libraries
-- Design system implementation
-- Modern application UI/UX integration
+<p><img src="https://skillicons.dev/icons?i=ts,js,python,html,css" /></p>
 
-## Backend Engineering & API Development
+### AI, ML & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,huggingface" /></p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Backend engineering areas**
-
-- RESTful API design and development
-- Backend service architecture
-- Authentication and authorization
-- API integration and third-party services
-- Asynchronous processing
-- Data validation and business logic
-- Application security and error handling
-- Scalable service development
-
-## Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,huggingface" />
-</p>
-
-![OpenAI](https://img.shields.io/badge/LLM_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**AI engineering capabilities**
-
-- Large Language Model applications
-- Prompt engineering and optimization
-- AI-assisted software development
-- Model evaluation and comparison
-- Structured output evaluation
-- AI-powered workflow automation
-- Model quality and reliability assessment
-- Reasoning and coding capability evaluation
-- AI application integration
-
-## Agentic AI & LLM Application Development
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-202020?style=flat-square)
+![OpenAI](https://img.shields.io/badge/LLM_ENGINEERING-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-202020?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-444444?style=flat-square)
+![Vector Search](https://img.shields.io/badge/VECTOR_SEARCH-6554C0?style=flat-square)
+![MCP](https://img.shields.io/badge/MODEL_CONTEXT_PROTOCOL-444444?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_EVALUATION-FF6B35?style=flat-square)
+![Benchmarking](https://img.shields.io/badge/AI_BENCHMARKING-168B62?style=flat-square)
 
-**Technical areas**
+### Backend & Frontend
 
-- Retrieval-Augmented Generation (RAG)
-- AI agent architecture
-- Multi-agent workflows
-- Tool calling and function execution
-- Context management
-- Semantic search
-- Knowledge retrieval
-- AI workflow orchestration
-- Model Context Protocol (MCP)
-- Agent evaluation and verification
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,nodejs,express,django,fastapi" /></p>
 
-## AI Evaluation, Benchmarking & Quality Assurance
+**Engineering Areas:** Component Architecture · REST APIs · SSR · State Management · Authentication · Asynchronous Processing · API Integration
 
-![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-FF6B35?style=flat-square)
-![Benchmarking](https://img.shields.io/badge/Model_Benchmarking-6246EA?style=flat-square)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-168B62?style=flat-square)
+### Databases & Data Engineering
 
-**Core specialization**
+**Core Concepts**
 
-- AI model performance evaluation
-- Coding agent benchmarking
-- Software engineering task assessment
-- Model-generated code review
-- Reasoning and instruction-following evaluation
-- Test-driven task verification
-- Rubric-based assessment
-- Difficulty and complexity analysis
-- Agent behavior analysis
-- Regression and quality testing
-- Evaluation consistency and reproducibility
-- Failure analysis and root-cause investigation
+![SQL](https://img.shields.io/badge/SQL-Databases-4479A1?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/DATA_MODELING-607D8B?style=flat-square)
+![Query Optimization](https://img.shields.io/badge/QUERY_OPTIMIZATION-455A64?style=flat-square)
+![Data Validation](https://img.shields.io/badge/DATA_VALIDATION-168B62?style=flat-square)
 
-## Databases & Data Technologies
+Relational Data · Schema Design · Data Modeling · Query Optimization · Data Integrity · Application Data Architecture
 
-**Database engineering concepts**
+### Cloud, DevOps & Infrastructure
 
-- Relational database design
-- Data modeling and schema design
-- Database integration
-- Query optimization
-- Data processing and validation
-- Data consistency and integrity
-- Application data architecture
+<p><img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,gitlab" /></p>
 
-## Cloud, DevOps & Infrastructure
+![CI/CD](https://img.shields.io/badge/CI%2FCD-444444?style=flat-square)
+![Containerization](https://img.shields.io/badge/CONTAINERIZATION-2496ED?style=flat-square)
+![Automation](https://img.shields.io/badge/DEPLOYMENT_AUTOMATION-1976D2?style=flat-square)
+![Version Control](https://img.shields.io/badge/VERSION_CONTROL-F05032?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,gitlab" />
-</p>
+Linux · WSL · Docker · Git Workflows · CI/CD · Environment Configuration · Deployment Automation
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+### AI Engineering Practices
 
-**Infrastructure and development practices**
+![Evaluation](https://img.shields.io/badge/LLM_EVALUATION-555555?style=flat-square)
+![Production Quality](https://img.shields.io/badge/PRODUCTION_QUALITY-0969DA?style=flat-square)
+![Guardrails](https://img.shields.io/badge/GUARDRAILS-168B62?style=flat-square)
+![Observability](https://img.shields.io/badge/OBSERVABILITY-6554C0?style=flat-square)
+![Performance](https://img.shields.io/badge/PERFORMANCE_ENGINEERING-444444?style=flat-square)
+![Tracing](https://img.shields.io/badge/TRACING_AND_METRICS-7952B3?style=flat-square)
 
-- Linux development environments
-- Windows Subsystem for Linux (WSL)
-- Containerized development
-- Docker-based environments
-- Git-based collaboration
-- CI/CD workflows
-- Environment configuration
-- Application deployment workflows
-- Development environment automation
-- Version control and release management
+Model Evaluation · Prompt Testing · Regression Testing · Agent Verification · Quality Assurance · Reliability
 
-## Software Testing & Engineering Quality
+### Software Architecture & Engineering
 
-- Unit and integration testing
-- End-to-end testing
-- API testing
-- Regression testing
-- Automated verification
-- Code review and static analysis
-- Debugging and root-cause analysis
-- Test coverage and reliability
-- Performance validation
-- Software maintainability
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-2563EB?style=flat-square)
+![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-475569?style=flat-square)
+![Scalability](https://img.shields.io/badge/SCALABILITY-168B62?style=flat-square)
+![Security](https://img.shields.io/badge/SECURITY-DC6B35?style=flat-square)
 
-## Architecture & Engineering Practices
+Modular Design · Design Patterns · API Architecture · Distributed Systems · Authentication · Error Handling · Performance Optimization
 
-![Clean Code](https://img.shields.io/badge/Clean_Code-Engineering-blue?style=flat-square)
-![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-Architecture-purple?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Engineering-orange?style=flat-square)
+### Testing & Developer Tools
 
-- Clean code and maintainable architecture
-- Modular software design
-- Separation of concerns
-- Design patterns
-- Service-oriented architecture
-- Distributed application concepts
-- API-first development
-- Error handling and fault tolerance
-- Performance optimization
-- Technical documentation
+<p><img src="https://skillicons.dev/icons?i=vscode,postman,figma,github" /></p>
 
-## Developer Tools & Productivity
+![Unit Testing](https://img.shields.io/badge/UNIT_TESTING-168B62?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/INTEGRATION_TESTING-0969DA?style=flat-square)
+![Code Review](https://img.shields.io/badge/CODE_REVIEW-6554C0?style=flat-square)
+![Static Analysis](https://img.shields.io/badge/STATIC_ANALYSIS-475569?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github" />
-</p>
-
-- Visual Studio Code
-- Git and GitHub
-- GitLab
-- Linux and WSL terminals
-- Docker development workflows
-- API development and debugging
-- Figma-based development workflows
-- AI-assisted developer tools
-
-## Blockchain & Emerging Technologies
-
-**Areas of experience and interest**
-
-- Blockchain application development
-- Smart contract ecosystem concepts
-- Decentralized application architecture
-- AI and blockchain integration
-- Emerging developer technologies
+API Testing · Debugging · Regression Testing · Automated Verification · Code Quality · Technical Documentation
 
 ---
 
-# Professional Experience & Engineering Contributions
-
-My professional work spans multiple engineering domains, combining practical software development with AI evaluation and benchmarking.
+## Professional Experience
 
 ### AI Engineering & Model Evaluation
 
-Contributing to AI evaluation and benchmarking workflows involving model-generated solutions, coding quality, task complexity, and structured verification.
+- AI model benchmarking and coding-agent assessment
+- Model-generated code review and reasoning evaluation
+- Structured task verification and quality assessment
+- Agent behavior analysis and failure investigation
 
-**Key areas**
+### Full-Stack Software Engineering
 
-- Evaluating AI-generated software solutions
-- Assessing coding and reasoning capabilities
-- Reviewing agent performance and failure cases
-- Developing structured task verification approaches
-- Improving evaluation consistency and quality
+- Modern web application development
+- Backend services and API integrations
+- Frontend architecture and application optimization
+- Maintainable and scalable application design
 
-### Full-Stack Software Development
+### AI-Powered Software Development
 
-Building modern web applications and backend services with TypeScript, JavaScript, React, Next.js, Node.js, and Python.
+- LLM integrations and intelligent automation
+- Agentic workflows and tool integrations
+- AI-assisted development and productivity solutions
 
-**Key areas**
+## Featured Engineering Work
 
-- End-to-end application development
-- Frontend and backend integration
-- API development
-- Application architecture
-- Debugging and software maintenance
-
-### AI-Powered Software Solutions
-
-Exploring practical applications of LLMs, intelligent automation, and AI-assisted engineering workflows.
-
-**Key areas**
-
-- LLM-powered applications
-- Intelligent automation
-- Agent-based development workflows
-- Model integration
-- AI-driven productivity solutions
-
----
-
-# Selected Engineering Impact
-
-| Engineering Domain | Contribution |
+| Project Area | Engineering Focus |
 |---|---|
-| AI Evaluation | Structured model assessment and benchmarking |
-| Coding Agents | Evaluation of code quality and agent behavior |
-| AI Workflows | LLM integration and intelligent automation |
-| Full-Stack Development | End-to-end web application engineering |
-| Backend Architecture | API development and service integration |
-| Software Quality | Verification, testing, and reliability practices |
+| AI Evaluation | Model assessment, benchmarking, and verification |
+| Agentic Applications | LLMs, RAG, and workflow orchestration |
+| Full-Stack Applications | TypeScript, React, and Next.js |
+| Backend Services | Node.js, Python, and FastAPI |
+| Developer Infrastructure | Docker, Linux, and CI/CD |
+
+## Engineering Interests
+
+AI Agents · LLM Reliability · Model Benchmarking · RAG · Distributed Systems · Software Architecture · Developer Automation
 
 ---
 
-# Featured Projects
+## Let's Connect
 
-I use GitHub to showcase practical engineering work, technical experiments, and software development projects.
+Interested in collaborating on challenging projects involving AI engineering, full-stack development, software architecture, and AI evaluation.
 
-### AI Evaluation & Benchmarking
+[GitHub](https://github.com/cleverpony329-devcom) · [Email](mailto:cleverpony329@gmail.com)
 
-Developing and evaluating structured workflows for assessing model capabilities, coding quality, reasoning, and task performance.
-
-### Full-Stack Web Applications
-
-Building modern web applications and backend services using TypeScript, React, Next.js, Node.js, and Python.
-
-### AI-Powered Applications
-
-Exploring LLM integrations, intelligent automation, and AI-assisted developer workflows.
-
-> More project details and source code will be added as projects are published.
-
----
-
-# Current Interests
-
-- Advanced AI evaluation and benchmarking
-- Agentic AI systems and autonomous workflows
-- LLM reliability and quality assurance
-- AI-assisted software engineering
-- Distributed systems and scalable architecture
-- Developer productivity and automation
-
----
-
-# Let's Connect
-
-I'm interested in collaborating on challenging engineering projects involving AI, software development, benchmarking, and intelligent automation.
-
-<div align="center">
-
-<a href="https://github.com/cleverpony329-devcom">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
